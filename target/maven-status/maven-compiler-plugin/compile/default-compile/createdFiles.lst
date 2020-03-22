@@ -1,0 +1,6 @@
+com/findwise/Document.class
+com/findwise/IndexEntry.class
+com/findwise/SearchIndexEntry.class
+com/findwise/SingleTermSearchEngine.class
+com/findwise/SearchEngine.class
+com/findwise/findTerm.class
